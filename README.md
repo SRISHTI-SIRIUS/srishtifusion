@@ -12,7 +12,7 @@ A self potrait
             background-color: #f9f9f9;
         }
         header {
-            background-color: #282c34;
+            background-color: #708090;
             color: #61dafb;
             padding: 15px;
             text-align: center;
@@ -21,7 +21,7 @@ A self potrait
             margin: 0;
             padding: 15px;
             text-align: center;
-            background-color: #333;
+            background-color: #D3D3D3;
         }
         nav a {
             color: #61dafb;
