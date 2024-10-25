@@ -6,14 +6,14 @@ A self potrait
     <title>Srishti Bhattacharjee's Digital Canvas</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 20;
-            padding: 30;
-            background-color: light-blue;
+            font-family: 'Georgia', serif;
+            margin: 20px;
+            padding: 30px;
+            background-color: #f9f9f9;
         }
         header {
-            background-color:Black;
-            color: blue;
+            background-color: #282c34;
+            color: #61dafb;
             padding: 15px;
             text-align: center;
         }
@@ -24,19 +24,25 @@ A self potrait
             background-color: #333;
         }
         nav a {
-            color: red;
+            color: #61dafb;
             padding: 14px 20px;
             text-decoration: none;
             text-align: center;
         }
         nav a:hover {
-            background-color: pink;
+            background-color: #ddd;
             color: black;
         }
         section {
             padding: 20px;
             margin: 15px;
             background-color: white;
+        }
+        section h2 {
+            text-align: center;
+        }
+        section p {
+            text-align: left;
         }
         footer {
             background-color: #333;
@@ -60,30 +66,30 @@ A self potrait
         <a href="#eventsattended">Events Attended</a>
         <a href="#coursescompleted">Courses Completed</a>
         <a href="#contact">Contact</a>
- </nav>
+    </nav>
     <section id="home">
         <h2>About Me</h2>
-        <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing, Creating</p>
+        <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing, Creating.</p>
     </section>
     <section id="about">
         <h2>Projects</h2>
-        <p>Currently, I am a student at University of Engineering and Management, Kolkata</p>
+        <p>Currently, I am a student at University of Engineering and Management, Kolkata.</p>
     </section>
     <section id="educationalbackground">
         <h2>Educational Background</h2>
-        <p>I had scored 95.6% in my ICSE and 94.75% in ISC</p>
+        <p>Details of my educational background go here.</p>
     </section>
-     <section id="eventsattended">
+    <section id="eventsattended">
         <h2>Events Attended</h2>
-        <p>I attended a workshop on maths</p>
+        <p>Details of events I've attended go here.</p>
     </section>
     <section id="coursescompleted">
         <h2>Courses Completed</h2>
-        <p>NPTEL</p>
+        <p>Details of courses I've completed go here.</p>
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Contact me at home.</p>
+        <p>You can reach me at: <a href="mailto:srishti@example.com">srishti@example.com</a></p>
     </section>
     <footer>
         <p>&copy; 2024 Srishti Bhattacharjee. All rights reserved.</p>
