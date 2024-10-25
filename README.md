@@ -81,7 +81,7 @@ A self potrait
     </section>
     <section id="eventsattended">
         <h2>EVENTS ATTENDED</h2>
-        <p>Workshop on </p>
+        <p>Workshop on MATHEMATICS-STATISTICS-CRYPTOLOGY organized by EAST CALCUTTA GIRLS'S COLLEGE, LAKE TOWN in collaboration with HERITAGE INSTITUTE OF TECHNOLOGY, KOLKATA sponcered by R.C. BOSE CENTRE FOR CRYPTOLOGY AND SECURITY, ISI, KOLKATA </p>
     </section>
     <section id="coursescompleted">
         <h2>COURSES COMPLETED</h2>
