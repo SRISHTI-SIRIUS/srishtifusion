@@ -1,4 +1,3 @@
-# srishtifusion
 <html>
 <head>
     <title>Srishti Bhattacharjee's Digital Canvas</title>
@@ -10,7 +9,7 @@
             background-color: #f9f9f9;
         }
         header {
-            background-color: #f9f9f9;
+            background-color: #d3d3d3;
             color: #61dafb;
             padding: 15px;
             text-align: center;
@@ -19,7 +18,7 @@
             margin: 0;
             padding: 15px;
             text-align: center;
-            background-color: #D3D3D3;
+            background-color: white;
         }
         nav a {
             color: #61dafb;
@@ -29,12 +28,12 @@
         }
         nav a:hover {
             background-color: #ddd;
-            color: black;
+            color: white;
         }
         section {
             padding: 20px;
             margin: 15px;
-            background-color: black;
+            background-color: white;
         }
         section h2 {
             text-align: center;
