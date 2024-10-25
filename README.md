@@ -42,7 +42,7 @@ A self potrait
             text-align: center;
         }
         section p {
-            text-align: left;
+            text-align: center;
         }
         footer {
             background-color: #333;
@@ -68,28 +68,28 @@ A self potrait
         <a href="#contact">Contact</a>
     </nav>
     <section id="home">
-        <h2>About Me</h2>
+        <h2>HOME</h2>
         <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing, Creating.</p>
     </section>
     <section id="about">
-        <h2>Projects</h2>
-        <p>Currently, I am a student at University of Engineering and Management, Kolkata.</p>
+        <h2>ABOUT ME</h2>
+        <p>A student at University of Engineering and Management, Kolkata.</p>
     </section>
     <section id="educationalbackground">
-        <h2>Educational Background</h2>
-        <p>Details of my educational background go here.</p>
+        <h2>EDUCATIONAL BACKGROUND</h2>
+        <p>I completed my schooling at Pramila Memorial Advanced School, achieving 95.6% in my ICSE and 94.75% in my ISC examinations. Currently, I am pursuing a B.Tech degree in Computer Science and Engineering at the Institute of Engineering and Management, Kolkata, under the esteemed University of Engineering and Management, Kolkata. My journey is driven by a love for coding, creating, and continuous learning.</p>
     </section>
     <section id="eventsattended">
-        <h2>Events Attended</h2>
-        <p>Details of events I've attended go here.</p>
+        <h2>EVENTS ATTENDED</h2>
+        <p>Workshop on </p>
     </section>
     <section id="coursescompleted">
-        <h2>Courses Completed</h2>
-        <p>Details of courses I've completed go here.</p>
+        <h2>COURSES COMPLETED</h2>
+        <p>Developing Soft Skills and Personality, NPTEL</p>
     </section>
     <section id="contact">
-        <h2>Contact</h2>
-        <p>You can reach me at: <a href="mailto:srishti@example.com">srishti@example.com</a></p>
+        <h2>CONTACT</h2>
+        <p>You can reach me at: <a href="mailto:sb141005@gmail.com">sb141005@gmail.com.com</a></p>
     </section>
     <footer>
         <p>&copy; 2024 Srishti Bhattacharjee. All rights reserved.</p>
