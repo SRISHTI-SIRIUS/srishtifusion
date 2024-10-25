@@ -70,7 +70,7 @@
     </section>
     <section id="about">
         <h2>ABOUT ME</h2>
-        <p>A student at University of Engineering and Management, Kolkata.</p>
+        <p>Student,Institute of Engineering and Management, Kolkata under the University of Engineering and Management, Kolkata.</p>
     </section>
     <section id="educationalbackground">
         <h2>EDUCATIONAL BACKGROUND</h2>
