@@ -9,10 +9,10 @@ A self potrait
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f1;
+            background-color:Blue;
         }
         header {
-            background-color: #4CAF51;
+            background-color:Black;
             color: blue;
             padding: 15px;
             text-align: center;
@@ -24,13 +24,13 @@ A self potrait
             background-color: #333;
         }
         nav a {
-            color: white;
+            color: red;
             padding: 14px 20px;
             text-decoration: none;
             text-align: center;
         }
         nav a:hover {
-            background-color: #ddd;
+            background-color: pink;
             color: black;
         }
         section {
