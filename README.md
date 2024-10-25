@@ -10,7 +10,7 @@
             background-color: #f9f9f9;
         }
         header {
-            background-color: #708090;
+            background-color: #f9f9f9;
             color: #61dafb;
             padding: 15px;
             text-align: center;
@@ -34,7 +34,7 @@
         section {
             padding: 20px;
             margin: 15px;
-            background-color: white;
+            background-color: black;
         }
         section h2 {
             text-align: center;
