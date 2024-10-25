@@ -1,6 +1,4 @@
 # srishtifusion
-A self potrait
-<!DOCTYPE html>
 <html>
 <head>
     <title>Srishti Bhattacharjee's Digital Canvas</title>
