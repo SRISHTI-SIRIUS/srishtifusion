@@ -3,17 +3,17 @@ A self potrait
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Srishti Bhattacharjee's Portfolio</title>
+    <title>Srishti Bhattacharjee's Digital Canvas</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #f0f0f1;
         }
         header {
-            background-color: #4CAF50;
-            color: white;
+            background-color: #4CAF51;
+            color: blue;
             padding: 15px;
             text-align: center;
         }
@@ -51,24 +51,39 @@ A self potrait
 </head>
 <body>
     <header>
-        <h1>Welcome to Srishti Bhattacharjee's Portfolio</h1>
+        <h1>Welcome to Srishti Bhattacharjee's Digital Canvas</h1>
     </header>
     <nav>
+        <a href="#home">Home</a>
         <a href="#about">About Me</a>
-        <a href="#projects">Projects</a>
+        <a href="#educationalbackground">Educational Background</a>
+        <a href="#eventsattended">Events Attended</a>
+        <a href="#coursescompleted">Courses Completed</a>
         <a href="#contact">Contact</a>
-    </nav>
-    <section id="about">
+ </nav>
+    <section id="home">
         <h2>About Me</h2>
-        <p>Hello! I'm Srishti Bhattacharjee, a passionate developer and designer. Welcome to my portfolio website!</p>
+        <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing, Creating</p>
     </section>
-    <section id="projects">
+    <section id="about">
         <h2>Projects</h2>
-        <p>Here's a showcase of my work and projects.</p>
+        <p>Currently, I am a student at University of Engineering and Management, Kolkata</p>
+    </section>
+    <section id="educationalbackground">
+        <h2>Educational Background</h2>
+        <p>I had scored 95.6% in my ICSE and 94.75% in ISC</p>
+    </section>
+     <section id="eventsattended">
+        <h2>Events Attended</h2>
+        <p>I attended a workshop on maths</p>
+    </section>
+    <section id="coursescompleted">
+        <h2>Courses Completed</h2>
+        <p>NPTEL</p>
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>You can reach me at: <a href="mailto:srishti@example.com">srishti@example.com</a></p>
+        <p>Contact me at home.</p>
     </section>
     <footer>
         <p>&copy; 2024 Srishti Bhattacharjee. All rights reserved.</p>
