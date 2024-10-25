@@ -6,10 +6,10 @@
             font-family: 'Georgia', serif;
             margin: 20px;
             padding: 30px;
-            background-color: #f9f9f9;
+            background-color: white;
         }
         header {
-            background-color: #d3d3d3;
+            background-color: black;
             color: #61dafb;
             padding: 15px;
             text-align: center;
