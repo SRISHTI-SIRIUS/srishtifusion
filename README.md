@@ -66,7 +66,7 @@
     </nav>
     <section id="home">
         <h2>HOME</h2>
-        <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing, Creating.</p>
+        <p>Hello! I am Srishti Bhattacharjee and I believe in Coding, Capturing and Creating.</p>
     </section>
     <section id="about">
         <h2>ABOUT ME</h2>
